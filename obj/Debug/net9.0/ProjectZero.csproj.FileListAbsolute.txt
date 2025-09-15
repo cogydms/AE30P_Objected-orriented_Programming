@@ -1,0 +1,14 @@
+C:\Users\cogyd\project_zero\ProjectZero\bin\Debug\net9.0\ProjectZero.exe
+C:\Users\cogyd\project_zero\ProjectZero\bin\Debug\net9.0\ProjectZero.deps.json
+C:\Users\cogyd\project_zero\ProjectZero\bin\Debug\net9.0\ProjectZero.runtimeconfig.json
+C:\Users\cogyd\project_zero\ProjectZero\bin\Debug\net9.0\ProjectZero.dll
+C:\Users\cogyd\project_zero\ProjectZero\bin\Debug\net9.0\ProjectZero.pdb
+C:\Users\cogyd\project_zero\ProjectZero\obj\Debug\net9.0\ProjectZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogyd\project_zero\ProjectZero\obj\Debug\net9.0\ProjectZero.AssemblyInfoInputs.cache
+C:\Users\cogyd\project_zero\ProjectZero\obj\Debug\net9.0\ProjectZero.AssemblyInfo.cs
+C:\Users\cogyd\project_zero\ProjectZero\obj\Debug\net9.0\ProjectZero.csproj.CoreCompileInputs.cache
+C:\Users\cogyd\project_zero\ProjectZero\obj\Debug\net9.0\ProjectZero.dll
+C:\Users\cogyd\project_zero\ProjectZero\obj\Debug\net9.0\refint\ProjectZero.dll
+C:\Users\cogyd\project_zero\ProjectZero\obj\Debug\net9.0\ProjectZero.pdb
+C:\Users\cogyd\project_zero\ProjectZero\obj\Debug\net9.0\ProjectZero.genruntimeconfig.cache
+C:\Users\cogyd\project_zero\ProjectZero\obj\Debug\net9.0\ref\ProjectZero.dll

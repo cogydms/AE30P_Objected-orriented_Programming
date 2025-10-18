@@ -1,0 +1,15 @@
+C:\Users\cogyd\project_zero\ProjectZero\Terminology\obj\Debug\net9.0\Terminology.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogyd\project_zero\ProjectZero\Terminology\obj\Debug\net9.0\Terminology.AssemblyInfoInputs.cache
+C:\Users\cogyd\project_zero\ProjectZero\Terminology\obj\Debug\net9.0\Terminology.AssemblyInfo.cs
+C:\Users\cogyd\project_zero\ProjectZero\Terminology\obj\Debug\net9.0\Terminology.csproj.CoreCompileInputs.cache
+C:\Users\cogyd\project_zero\ProjectZero\Terminology\obj\Debug\net9.0\Terminology.sourcelink.json
+C:\Users\cogyd\project_zero\ProjectZero\Terminology\bin\Debug\net9.0\Terminology.exe
+C:\Users\cogyd\project_zero\ProjectZero\Terminology\bin\Debug\net9.0\Terminology.deps.json
+C:\Users\cogyd\project_zero\ProjectZero\Terminology\bin\Debug\net9.0\Terminology.runtimeconfig.json
+C:\Users\cogyd\project_zero\ProjectZero\Terminology\bin\Debug\net9.0\Terminology.dll
+C:\Users\cogyd\project_zero\ProjectZero\Terminology\bin\Debug\net9.0\Terminology.pdb
+C:\Users\cogyd\project_zero\ProjectZero\Terminology\obj\Debug\net9.0\Terminology.dll
+C:\Users\cogyd\project_zero\ProjectZero\Terminology\obj\Debug\net9.0\refint\Terminology.dll
+C:\Users\cogyd\project_zero\ProjectZero\Terminology\obj\Debug\net9.0\Terminology.pdb
+C:\Users\cogyd\project_zero\ProjectZero\Terminology\obj\Debug\net9.0\Terminology.genruntimeconfig.cache
+C:\Users\cogyd\project_zero\ProjectZero\Terminology\obj\Debug\net9.0\ref\Terminology.dll

@@ -1,0 +1,15 @@
+C:\Users\cogyd\project_zero\ProjectZero\Dicegame\bin\Debug\net9.0\Dicegame.exe
+C:\Users\cogyd\project_zero\ProjectZero\Dicegame\bin\Debug\net9.0\Dicegame.deps.json
+C:\Users\cogyd\project_zero\ProjectZero\Dicegame\bin\Debug\net9.0\Dicegame.runtimeconfig.json
+C:\Users\cogyd\project_zero\ProjectZero\Dicegame\bin\Debug\net9.0\Dicegame.dll
+C:\Users\cogyd\project_zero\ProjectZero\Dicegame\bin\Debug\net9.0\Dicegame.pdb
+C:\Users\cogyd\project_zero\ProjectZero\Dicegame\obj\Debug\net9.0\Dicegame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogyd\project_zero\ProjectZero\Dicegame\obj\Debug\net9.0\Dicegame.AssemblyInfoInputs.cache
+C:\Users\cogyd\project_zero\ProjectZero\Dicegame\obj\Debug\net9.0\Dicegame.AssemblyInfo.cs
+C:\Users\cogyd\project_zero\ProjectZero\Dicegame\obj\Debug\net9.0\Dicegame.csproj.CoreCompileInputs.cache
+C:\Users\cogyd\project_zero\ProjectZero\Dicegame\obj\Debug\net9.0\Dicegame.sourcelink.json
+C:\Users\cogyd\project_zero\ProjectZero\Dicegame\obj\Debug\net9.0\Dicegame.dll
+C:\Users\cogyd\project_zero\ProjectZero\Dicegame\obj\Debug\net9.0\refint\Dicegame.dll
+C:\Users\cogyd\project_zero\ProjectZero\Dicegame\obj\Debug\net9.0\Dicegame.pdb
+C:\Users\cogyd\project_zero\ProjectZero\Dicegame\obj\Debug\net9.0\Dicegame.genruntimeconfig.cache
+C:\Users\cogyd\project_zero\ProjectZero\Dicegame\obj\Debug\net9.0\ref\Dicegame.dll

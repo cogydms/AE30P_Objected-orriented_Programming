@@ -1,0 +1,15 @@
+C:\Users\cogyd\project_zero\ProjectZero\Polymorphism\obj\Debug\net9.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogyd\project_zero\ProjectZero\Polymorphism\obj\Debug\net9.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\cogyd\project_zero\ProjectZero\Polymorphism\obj\Debug\net9.0\Polymorphism.AssemblyInfo.cs
+C:\Users\cogyd\project_zero\ProjectZero\Polymorphism\obj\Debug\net9.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\cogyd\project_zero\ProjectZero\Polymorphism\obj\Debug\net9.0\Polymorphism.sourcelink.json
+C:\Users\cogyd\project_zero\ProjectZero\Polymorphism\bin\Debug\net9.0\Polymorphism.exe
+C:\Users\cogyd\project_zero\ProjectZero\Polymorphism\bin\Debug\net9.0\Polymorphism.deps.json
+C:\Users\cogyd\project_zero\ProjectZero\Polymorphism\bin\Debug\net9.0\Polymorphism.runtimeconfig.json
+C:\Users\cogyd\project_zero\ProjectZero\Polymorphism\bin\Debug\net9.0\Polymorphism.dll
+C:\Users\cogyd\project_zero\ProjectZero\Polymorphism\bin\Debug\net9.0\Polymorphism.pdb
+C:\Users\cogyd\project_zero\ProjectZero\Polymorphism\obj\Debug\net9.0\Polymorphism.dll
+C:\Users\cogyd\project_zero\ProjectZero\Polymorphism\obj\Debug\net9.0\refint\Polymorphism.dll
+C:\Users\cogyd\project_zero\ProjectZero\Polymorphism\obj\Debug\net9.0\Polymorphism.pdb
+C:\Users\cogyd\project_zero\ProjectZero\Polymorphism\obj\Debug\net9.0\Polymorphism.genruntimeconfig.cache
+C:\Users\cogyd\project_zero\ProjectZero\Polymorphism\obj\Debug\net9.0\ref\Polymorphism.dll

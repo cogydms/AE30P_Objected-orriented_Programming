@@ -1,0 +1,12 @@
+C:\Users\cogyd\project_zero\ProjectZero\Module5\TransportLibrary\bin\Debug\net9.0\TransportLibrary.deps.json
+C:\Users\cogyd\project_zero\ProjectZero\Module5\TransportLibrary\bin\Debug\net9.0\TransportLibrary.dll
+C:\Users\cogyd\project_zero\ProjectZero\Module5\TransportLibrary\bin\Debug\net9.0\TransportLibrary.pdb
+C:\Users\cogyd\project_zero\ProjectZero\Module5\TransportLibrary\obj\Debug\net9.0\TransportLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogyd\project_zero\ProjectZero\Module5\TransportLibrary\obj\Debug\net9.0\TransportLibrary.AssemblyInfoInputs.cache
+C:\Users\cogyd\project_zero\ProjectZero\Module5\TransportLibrary\obj\Debug\net9.0\TransportLibrary.AssemblyInfo.cs
+C:\Users\cogyd\project_zero\ProjectZero\Module5\TransportLibrary\obj\Debug\net9.0\TransportLibrary.csproj.CoreCompileInputs.cache
+C:\Users\cogyd\project_zero\ProjectZero\Module5\TransportLibrary\obj\Debug\net9.0\TransportLibrary.sourcelink.json
+C:\Users\cogyd\project_zero\ProjectZero\Module5\TransportLibrary\obj\Debug\net9.0\TransportLibrary.dll
+C:\Users\cogyd\project_zero\ProjectZero\Module5\TransportLibrary\obj\Debug\net9.0\refint\TransportLibrary.dll
+C:\Users\cogyd\project_zero\ProjectZero\Module5\TransportLibrary\obj\Debug\net9.0\TransportLibrary.pdb
+C:\Users\cogyd\project_zero\ProjectZero\Module5\TransportLibrary\obj\Debug\net9.0\ref\TransportLibrary.dll

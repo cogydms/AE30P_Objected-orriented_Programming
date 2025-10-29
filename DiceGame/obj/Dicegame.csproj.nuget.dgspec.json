@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cogyd\\project_zero\\ProjectZero\\Dicegame\\Dicegame.csproj": {}
+    "C:\\Users\\cogyd\\project_zero\\ProjectZero\\DiceGame\\Dicegame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cogyd\\project_zero\\ProjectZero\\Dicegame\\Dicegame.csproj": {
+    "C:\\Users\\cogyd\\project_zero\\ProjectZero\\DiceGame\\Dicegame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cogyd\\project_zero\\ProjectZero\\Dicegame\\Dicegame.csproj",
+        "projectUniqueName": "C:\\Users\\cogyd\\project_zero\\ProjectZero\\DiceGame\\Dicegame.csproj",
         "projectName": "Dicegame",
-        "projectPath": "C:\\Users\\cogyd\\project_zero\\ProjectZero\\Dicegame\\Dicegame.csproj",
+        "projectPath": "C:\\Users\\cogyd\\project_zero\\ProjectZero\\DiceGame\\Dicegame.csproj",
         "packagesPath": "C:\\Users\\cogyd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cogyd\\project_zero\\ProjectZero\\Dicegame\\obj\\",
+        "outputPath": "C:\\Users\\cogyd\\project_zero\\ProjectZero\\DiceGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cogyd\\AppData\\Roaming\\NuGet\\NuGet.Config"

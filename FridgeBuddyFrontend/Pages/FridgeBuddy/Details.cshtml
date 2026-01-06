@@ -1,0 +1,46 @@
+@page "{id:int}"
+@model FridgeBuddyFrontend.Pages.FridgeBuddy.DetailsModel
+@{
+    ViewData["Title"] = "Ingredient Details";
+}
+
+<div class="container mt-4">
+    <h1>@ViewData["Title"]</h1>
+
+    @if (Model.item == null)
+    {
+        <div class="alert alert-warning">Ingredient Not Found.</div>
+        <a asp-page="./Index" class="btn btn-secondary">Back to List</a>
+    }
+    else
+    {
+        <div class="card">
+            <div class="card-body">
+                <dl class="row">
+                    <dt class="col-sm-3">Name</dt>
+                    <dd class="col-sm-9">@Model.item.Name</dd>
+
+                    <dt class="col-sm-3">Quantity</dt>
+                    <dd class="col-sm-9">@Model.item.Quantity</dd>
+
+                    <dt class="col-sm-3">StorageType</dt>
+                    <dd class="col-sm-9">@Model.item.StorageType</dd>
+
+                    <dt class="col-sm-3">Category</dt>
+                    <dd class="col-sm-9">@Model.item.Category</dd>
+
+                    <dt class="col-sm-3">Purchase Date</dt>
+                    <dd class="col-sm-9">@(Model.item.PurchaseDate.ToString("yyyy-MM-dd"))</dd>
+
+                    <dt class="col-sm-3">Expiration Date</dt>
+                    <dd class="col-sm-9">@(Model.item.ExpirationDate.ToString("yyyy-MM-dd"))</dd>
+                </dl>
+            </div>
+        </div>
+
+        <div class="mt-3">
+            <a asp-page="./Edit" asp-route-id="@Model.item.ID" class="btn btn-warning">Edit</a>
+            <a asp-page="./Index" class="btn btn-secondary">Back to List</a>
+        </div>
+    }
+</div>

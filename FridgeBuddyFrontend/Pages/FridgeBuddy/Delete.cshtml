@@ -1,0 +1,52 @@
+@page "{id:int}"
+@model FridgeBuddyFrontend.Pages.FridgeBuddy.DeleteModel
+@{
+    ViewData["Title"] = "Deleting ingredient";
+}
+
+<div class="container mt-4">
+    <h1 class="text-danger">@ViewData["Title"]</h1>
+
+    @if (Model.item == null)
+    {
+        <div class="alert alert-warning">Ingredient not found.</div>
+        <a asp-page="./Index" class="btn btn-secondary">Back to list</a>
+    }
+    else
+    {
+        <div class="alert alert-warning">
+            <h4 class="alert-heading">Confirm Operation</h4>
+            <p>Are you sure you want to delete this ingredient? This action cannot be undone.</p>
+        </div>
+
+        <div class="card">
+            <div class="card-body">
+                <dl class="row">
+                    <dt class="col-sm-3">Name</dt>
+                    <dd class="col-sm-9">@Model.item.Name</dd>
+
+                    <dt class="col-sm-3">Quantity</dt>
+                    <dd class="col-sm-9">@Model.item.Quantity</dd>
+
+                    <dt class="col-sm-3">StorageType</dt>
+                    <dd class="col-sm-9">@Model.item.StorageType</dd>
+
+                    <dt class="col-sm-3">Category</dt>
+                    <dd class="col-sm-9">@Model.item.Category</dd>
+
+                    <dt class="col-sm-3">Purchase Date</dt>
+                    <dd class="col-sm-9">@(Model.item.PurchaseDate.ToString("yyyy-MM-dd"))</dd>
+
+                    <dt class="col-sm-3">Expiration Date</dt>
+                    <dd class="col-sm-9">@(Model.item.ExpirationDate.ToString("yyyy-MM-dd"))</dd>
+                </dl>
+            </div>
+        </div>
+
+        <form method="post" class="mt-4">
+            <input type="hidden" asp-for="item.ID" />
+            <button type="submit" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this ingredient?');">Delete</button>
+            <a asp-page="./Index" class="btn btn-secondary">Cancel</a>
+        </form>
+    }
+</div>

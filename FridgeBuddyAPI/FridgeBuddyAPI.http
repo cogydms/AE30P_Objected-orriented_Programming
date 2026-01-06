@@ -1,0 +1,6 @@
+@FridgeBuddyAPI_HostAddress = http://localhost:5222
+
+GET {{FridgeBuddyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

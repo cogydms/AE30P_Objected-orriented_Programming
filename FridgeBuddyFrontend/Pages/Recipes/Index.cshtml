@@ -1,0 +1,23 @@
+@page
+@model FridgeBuddyFrontend.Pages.Recipes.IndexModel
+@{
+    ViewData["Title"] = "Recipe Recommendations";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form method="post">
+    <div class="mb-3">
+        <label for="ingredients">Ingredients (comma separated)</label>
+        <input type="text" asp-for="IngredientsInput" class="form-control" placeholder="e.g., Tomato, Cheese, Chicken"/>
+    </div>
+    <button type="submit" class="btn btn-primary">Get Recipes</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.RecipeResult))
+{
+    <div class="mt-4">
+        <h3>Recommended Recipes</h3>
+        <pre>@Model.RecipeResult</pre>
+    </div>
+}

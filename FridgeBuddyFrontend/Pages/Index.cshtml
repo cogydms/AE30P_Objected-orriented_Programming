@@ -1,0 +1,47 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div>
+    <div class="container text-center">
+
+        <h1 class="mb-2">FridgeBuddy😋</h1>
+        <p class="text-muted mb-4">
+            Your smart fridge companion
+        </p>
+
+        <p class="text-muted mb-2">
+            @DateTime.Today.ToString("yyyy.MM.dd (ddd)")
+        </p>
+
+        <div class="row justify-content-center mb-4">
+            <div class="col-md-3 mb-3">
+                <div class="dashboard-card shadow-sm">
+                    <h6 class="text-muted">Total Items</h6>
+                    <h2>@Model.TotalCount</h2>
+                </div>
+            </div>
+
+            <div class="col-md-3 mb-3">
+                <div class="dashboard-card shadow-sm">
+                    <h6 class="text-muted">Expiring Soon</h6>
+                    <h2 class="text-warning">@Model.ExpiringSoonCount</h2>
+                </div>
+            </div>
+
+            <div class="col-md-3 mb-3">
+                <div class="dashboard-card shadow-sm">
+                    <h6 class="text-muted">Expired</h6>
+                    <h2 class="text-danger">@Model.ExpiredCount</h2>
+                </div>
+            </div>
+        </div>
+
+        <a asp-page="/FridgeBuddy/Index" class="btn btn-fridge btn-lg">
+            Open My Fridge 
+        </a>
+
+    </div>
+</div>
